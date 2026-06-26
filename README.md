@@ -1,4 +1,4 @@
-# Android Device Tree for Benesse TAB-A05-BD (TAB-A05-BD)
+# Android Device Tree for Benesse TAB-A05-BD (TAB-A05-BD)（Pull Request用一時フォーク)
 ---
 
 # ⚠️ このカスタムROMは Beta版 です ⚠️  
