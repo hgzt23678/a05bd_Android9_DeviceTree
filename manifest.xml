@@ -315,7 +315,7 @@
         </interface>
         <fqname>@2.2::IPictureQuality/default</fqname>
     </hal>
-   <hal format="hidl">
+    <hal format="hidl">
         <name>android.hardware.wifi</name>
         <transport>hwbinder</transport>
         <version>1.2</version>
@@ -324,6 +324,26 @@
             <instance>default</instance>
         </interface>
         <fqname>@1.2::IWifi/default</fqname>
+    </hal>
+    <hal format="hidl">
+        <name>android.hardware.wifi.hostapd</name>
+        <transport>hwbinder</transport>
+        <version>1.0</version>
+        <interface>
+            <name>IHostapd</name>
+            <instance>default</instance>
+        </interface>
+        <fqname>@1.0::IHostapd/default</fqname>
+    </hal>
+    <hal format="hidl">
+        <name>android.hardware.wifi.supplicant</name>
+        <transport>hwbinder</transport>
+        <version>1.1</version>
+        <interface>
+            <name>ISupplicant</name>
+            <instance>default</instance>
+        </interface>
+        <fqname>@1.1::ISupplicant/default</fqname>
     </hal>
     <hal format="hidl">
         <name>vendor.mediatek.hardware.wifi.hostapd</name>

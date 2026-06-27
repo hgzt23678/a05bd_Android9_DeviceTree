@@ -470,6 +470,9 @@ vendor/etc/wifi/p2p_supplicant_overlay.conf
 vendor/etc/wifi/wpa_supplicant.conf
 vendor/etc/wifi/wpa_supplicant_overlay.conf
 
+# Overlays
+vendor/overlay/framework-res__auto_generated_rro.apk
+
 # Miscellaneous
 vendor/bin/hw/camerahalserver
 vendor/bin/hw/power_native_test_v_2_0
